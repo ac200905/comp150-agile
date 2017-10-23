@@ -3,7 +3,7 @@
 ## Adrian Carter
 
 ### Topic
-Is the Agile methodology more or less effective than heavily Plan-Based methods in the games industry, particularly in large game companies?
+##### Is the Agile methodology more or less effective than heavily Plan-Based methods in the games industry, particularly in large game companies?
 In this essay I intend to analyse the key differences between the waterfall approach and agile approach in the games industry, specifically which methods perform better in larger game studios compared with smaller independent teams. I will look at how the size of the game can affect which approach is more likely to be used and why? 
 
 ### Paper 1
@@ -69,10 +69,27 @@ http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1204376
 
 ### Paper 6
 #### Title: 
-The role of experimentation in software engineering: past, current, and future
+Comparing extreme programming and Waterfall project results
 #### Citation:
 [6]
 #### Abstract:
-
+Waterfall and Extreme Programming are two software project methods used for project management. Although there are a number of opinions comparing the two methods regarding how they should be applied, none have used project data to clearly conclude which one is better. In this paper, we present the results of a controlled empirical study conducted at Carnegie Mellon University in Silicon Valley to learn about the effective transition from traditional development to agile development. We conducted a comparison research against these two approaches. Multiple teams were assigned a project; some used Waterfall development, others used Extreme Programming. The purpose of this research is to look at advantages and disadvantages based upon the outcomes, generated artifacts, and metrics produced by the teams.
 #### Weblink:
+http://ieeexplore.ieee.org/document/5876129/
 #### Full Text Link:
+http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5876129
+
+### References
+[1] J.J. Cunningham, "Costs of compliance: agile in an inelastic organization", in Agile Conference, 2005. Proceedings, 2005 Copyright, DOI: 10.1109/ADC.2005.18
+
+[2] Cristiano Politowski et al, "Are the Old Days Gone? A Survey on Actual Software
+Engineering Processes in Video Game Industry", in 2016 5th International Workshop on Games and Software Engineering, 2016 Copyright, DOI: 10.1109/GAS.2016.012
+
+[3] Shvetha Soundararajan et al, "Assessing an Organization's Capability to Effectively Implement Its Selected Agile Method(s): An Objectives, Principles, Strategies Approach", in Agile Conference (AGILE), 2013 Copyright, DOI: 10.1109/AGILE.2013.9
+
+[4] R. Al-azawi, A. Ayesh, and M. A. Obaidy. Towards Agent-based Agile approach for Game Development Methodology. In 2014 World Congress on Computer Applications and Information Systems (WCCAIS), pages 1–6. IEEE, jan 2014, DOI: 10.1109/WCCAIS.2014.6916626
+
+[5] Boehm, B. and R. Turner, “Using Risk to Balance Agile and Plan-Driven Methods.” Computer, 2003. 36, (6) pp. 57-66, DOI: 10.1109/MC.2003.1204376
+
+[6] Feng Ji and Todd Sedano, "Comparing extreme programming and Waterfall project results", in Software Engineering Education and Training (CSEE&T), 2011 24th IEEE-CS Conference, 2011 Copyright, DOI: 10.1109/CSEET.2011.5876129
+
